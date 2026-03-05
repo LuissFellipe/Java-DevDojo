@@ -1,0 +1,12 @@
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
+
+import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
+
+public class CalculadoraTest03 {
+    static void main() {
+        Calculadora calculadora = new Calculadora();
+        double result = calculadora.divideDoisNumeros(100, 10);
+        System.out.println(result);
+
+    }
+}
