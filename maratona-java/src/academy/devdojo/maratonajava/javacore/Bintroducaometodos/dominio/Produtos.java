@@ -20,4 +20,4 @@ public class Produtos {
         System.out.println("Produto: " + this.nome);
         System.out.println("Maior preço histórico: " + maiorPreco);
     }
-} 
+}
